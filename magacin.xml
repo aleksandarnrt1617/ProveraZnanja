@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Magacin SYSTEM "magacin.dtd">
+
 <Magacin>
     <Artikal>
-        <Naziv sifra="12">Mleko</Naziv>
+        <Naziv sifra = "12">Mleko</Naziv>
         <DatumIzrade>
             <Dan>5</Dan>
             <Mesec>6</Mesec>
