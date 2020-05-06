@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Magacin SYSTEM "magacin.dtd">
 
-<Magacin>
+<Magacin xmlns="http://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3schools.com magacin.xsd">
     <Artikal>
         <Naziv sifra = "12">Mleko</Naziv>
         <DatumIzrade>
@@ -14,7 +16,7 @@
             <ImeKompanije>MojaKravica</ImeKompanije>
             <Adresa>Beograd</Adresa>
         </KompanijaProdavca>
-        <Email tip="privatni">mojakraciva@gmail.com</Email>
+        <Email tip="privatni">1Mojakra1civa@gmail.com</Email>
     </Artikal>
     <Artikal>
         <Naziv sifra="13">CocaCola</Naziv>
