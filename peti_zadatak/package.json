@@ -1,0 +1,25 @@
+{
+  "name": "peti_zadatak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandarnrt1617/ProveraZnanja.git"
+  },
+  "author": "Aleksandar Ignjatovic NRT-1617",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandarnrt1617/ProveraZnanja/issues"
+  },
+  "homepage": "https://github.com/aleksandarnrt1617/ProveraZnanja#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  }
+}
